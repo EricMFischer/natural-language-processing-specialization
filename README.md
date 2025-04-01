@@ -13,7 +13,7 @@ Courses in Natural Language Processing specialization:
 ### Course 1: Natural Language Processing with Classification and Vector Spaces
 
   - Week 1 Lab - [Natural Language Preprocessing](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%201%20-%20NLP%20with%20Classification%20and%20Vector%20Spaces/Week%201/Natural%20Language%20Preprocessing.ipynb)
-  - Week 1 Lab - [Visualizing Word Frequencies](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%201%20-%20NLP%20with%20Classification%20and%20Vector%20Spaces/Week%201/x.ipynb)
+  - Week 1 Lab - [Visualizing Word Frequencies](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%201%20-%20NLP%20with%20Classification%20and%20Vector%20Spaces/Week%201/Visualizing%20Word%20Frequencies.ipynb)
   - Week 1 Lab - [Visualizing Tweets and Logistic Regression Models](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%201%20-%20NLP%20with%20Classification%20and%20Vector%20Spaces/Week%201/x.ipynb)
   - Week 1 Assignment - [Sentiment Analysis with Logistic Regression](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%201%20-%20NLP%20with%20Classification%20and%20Vector%20Spaces/Week%201/x.ipynb)
   - Week 2 Lab - [Visualizing Likelihoods and Confidence Ellipses](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%201%20-%20NLP%20with%20Classification%20and%20Vector%20Spaces/Week%202/x.ipynb)
