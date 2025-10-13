@@ -47,7 +47,7 @@ Courses in Natural Language Processing specialization:
 
 ### Course 3: Natural Language Processing with Sequence Models
 
-  - Week 1 Lab - [Introduction to TensorFlow](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%203%20-%20NLP%20with%20Sequence%20Models/Week%201/Introduction%20to%20TensorFlow.ipynb)
+  - Week 1 Lab - [Introduction to Trax](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%203%20-%20NLP%20with%20Sequence%20Models/Week%201/Introduction%20to%20Trax.ipynb)
   - Week 1 Assignment - [Sentiment with Deep Neural Networks](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%203%20-%20NLP%20with%20Sequence%20Models/Week%201/Sentiment%20with%20Deep%20Neural%20Networks.ipynb)
   - Week 1 Lab - [Hidden State Activation](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%203%20-%20NLP%20with%20Sequence%20Models/Week%201/Hidden%20State%20Activation.ipynb)
   - Week 1 Lab - [Vanilla RNNs, GRUs, and the Scan Function](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%203%20-%20NLP%20with%20Sequence%20Models/Week%201/Vanilla%20RNNs%2C%20GRUs%2C%20and%20the%20Scan%20Function.ipynb)
