@@ -43,7 +43,7 @@ Courses in Natural Language Processing specialization:
   - Week 4 Lab - [Training the CBOW Model](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%202%20-%20NLP%20with%20Probabilistic%20Models/Week%204/Training%20the%20CBOW%20Model.ipynb)
   - Week 4 Lab - [Word Embeddings](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%202%20-%20NLP%20with%20Probabilistic%20Models/Week%204/Word%20Embeddings.ipynb)
   - Week 4 Lab - [Word Embeddings Step by Step](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%202%20-%20NLP%20with%20Probabilistic%20Models/Week%204/Word%20Embeddings%20Step%20by%20Step.ipynb)
-  - Week 4 Assignment - [Word Embeddings](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%202%20-%20NLP%20with%20Probabilistic%20Models/Week%204/Word%20Embeddings.ipynb)
+  - Week 4 Assignment - [Word Embeddings](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%202%20-%20NLP%20with%20Probabilistic%20Models/Week%204/Word%20Embeddings%20Assignment.ipynb)
 
 ### Course 3: Natural Language Processing with Sequence Models
 
