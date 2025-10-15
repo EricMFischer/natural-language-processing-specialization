@@ -62,7 +62,7 @@ Courses in Natural Language Processing specialization:
 
 ### Course 4: Natural Language Processing with Attention Models
 
-  - Week 1 Lab - [Basic Attention](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%204%20-%20NLP%20with%20Attention%20Models/Week%201/Basic%20Attention.ipynb)
+  <!-- - Week 1 Lab - [Basic Attention](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%204%20-%20NLP%20with%20Attention%20Models/Week%201/Basic%20Attention.ipynb) -->
   - Week 1 Lab - [Scaled Dot-Product Attention](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%204%20-%20NLP%20with%20Attention%20Models/Week%201/Scaled%20Dot-Product%20Attention.ipynb)
   - Week 1 Lab - [BLEU Score](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%204%20-%20NLP%20with%20Attention%20Models/Week%201/BLEU%20Score.ipynb)
   - Week 1 Assignment - [NMT with Attention (TensorFlow)](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%204%20-%20NLP%20with%20Attention%20Models/Week%201/NMT%20with%20Attention%20(TensorFlow).ipynb)
