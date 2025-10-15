@@ -69,10 +69,11 @@ Courses in Natural Language Processing specialization:
   - Week 2 Lab - [Positional Encoding](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%204%20-%20NLP%20with%20Attention%20Models/Week%202/Positional%20Encoding.ipynb)
   - Week 2 Assignment - [Transformer Summarizer](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%204%20-%20NLP%20with%20Attention%20Models/Week%202/Transformer%20Summarizer.ipynb)
   - Week 3 Lab - [SentencePiece and BPE](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%204%20-%20NLP%20with%20Attention%20Models/Week%203/SentencePiece%20and%20BPE.ipynb)
-  - Week 3 Lab - [Question Answering with HuggingFace - Using a Base Model](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%204%20-%20NLP%20with%20Attention%20Models/Week%203/Question%20Answering%20with%20HuggingFace%20-%20Using%20a%20Base%20Model.ipynb)
-  - Week 3 Lab - [Question Answering with HuggingFace 2 - Fine-Tuning a Model](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%204%20-%20NLP%20with%20Attention%20Models/Week%203/Question%20Answering%20with%20HuggingFace%202%20-%20Fine-Tuning%20a%20Model.ipynb)
   - Week 3 Assignment - [Question Answering](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%204%20-%20NLP%20with%20Attention%20Models/Week%203/Question%20Answering.ipynb)
 
 
   <!-- - Week 2 Lab - [Attention](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%204%20-%20NLP%20with%20Attention%20Models/Week%202/Attention.ipynb) -->
   <!-- - Week 2 Lab - [Masking](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%204%20-%20NLP%20with%20Attention%20Models/Week%202/Masking.ipynb) -->
+
+  <!-- - Week 3 Lab - [Question Answering with HuggingFace - Using a Base Model](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%204%20-%20NLP%20with%20Attention%20Models/Week%203/Question%20Answering%20with%20HuggingFace%20-%20Using%20a%20Base%20Model.ipynb) -->
+  <!-- - Week 3 Lab - [Question Answering with HuggingFace 2 - Fine-Tuning a Model](https://nbviewer.org/github/EricMFischer/natural-language-processing-specialization/blob/master/Course%204%20-%20NLP%20with%20Attention%20Models/Week%203/Question%20Answering%20with%20HuggingFace%202%20-%20Fine-Tuning%20a%20Model.ipynb) -->
